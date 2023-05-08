@@ -1,5 +1,4 @@
 # I'm going to learn jiu jitsu?
-A series of commentaries and opinions about a curated list of reads, workshops and docs
 
 `A Prod: 🚀` `En progreso: ☕` `Backlog: 📌` 
 
@@ -38,10 +37,12 @@ A series of commentaries and opinions about a curated list of reads, workshops a
 ## CompSci 💣
 - 📌 Structure and Interpretation of Computer Programs - Harold Abelson and Gerald Jay Sussman (MIT Press, 3rd Ed, 2022)
 - 📌 Computer Systems: A Programmer's Perspective - Randal Bryant and David O'Hallaron (Pearson, 3rd Ed, 2015)
-- 📌 Logic and Structure - Dirk van Dalen (Springer, 4th Ed, 2008)
 - ☕ The Science Of Programming - David Gries (Springer, 1st Ed, 1981)
+- 📌 Logic and Structure - Dirk van Dalen (Springer, 4th Ed, 2008)
+- 📌 Introduction to Automata Theory, Languages, and Computation - J. Hopcroft (Pearson, 3rd Ed, 2006)
+- 📌 Theory of Computation: Formal Languages, Automata, and Complexity - J. Brookshear (Addison Wesley, 1st Ed, 1989)
 - 📌 The Algorithm Design Manual - Steven Skiena (Springer, 2nd Ed, 2008)
 - 📌 Algorithms (Part I and II) - Robert Sedgewick (Addison-Wesley, 4th Ed, 2014)
+- 📌 [Crafting Interpreters - Bob Nystrom](https://craftinginterpreters.com/contents.html)
 - 📌 Parsing Techniques - Dick Grune (Springer, 2nd Ed, 2008)
-- 📌[Crafting Interpreters - Bob Nystrom](https://craftinginterpreters.com/contents.html)
 - 📌 Compilers: Principles, Techniques, and Tools - A. Aho, J. Ullman, R. Sethi and M. Lam (Addison Wesley, 2nd Ed, 2016)
